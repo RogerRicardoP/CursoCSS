@@ -1,0 +1,10 @@
+{
+    "recommendations": [
+        "formulahendry.auto-close-tag",
+        "zignd.html-css-class-completion",
+        "ecmel.vscode-html-css",
+        "aeschli.vscode-css-formatter",
+        "bradlc.vscode-tailwindcss",
+        "kisstkondoros.vscode-gutter-preview"
+    ]
+}
